@@ -18,3 +18,6 @@ export class Serie implements AvaliarObra {
     return `Série "${this.titulo}" (${this.ano}) com ${this.temporadas} temporadas e ${this.episodios} episódios recebeu sua nota: ${nota}/5.`;
   }
 }
+
+
+//teste

@@ -3,3 +3,5 @@ interface AvaliarObra {
     ano: number;
     avaliar(nota: number): string;
     }
+
+    //teste

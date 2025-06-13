@@ -43,3 +43,5 @@ export class Terceirizado extends Funcionario {
     return `${this.nome} é terceirizado da empresa ${this.empresaTerceirizada}, cargo: ${this.cargo}, contrato de ${this.duracaoContratoMeses} meses.`;
   }
 }
+
+//teste
